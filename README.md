@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=300&section=header&text=Kanchan%20Yadav&fontSize=80&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Kanchan%20Yadav&fontSize=80&animation=fadeIn&fontColor=ffffff" />
 </p>
-
 <p align="center">
   <a href="https://github.com/y-kanchan">
     <img src="https://github.com/y-kanchan.png" width="150" style="border-radius: 50%; border: 4px solid #333333;" />
